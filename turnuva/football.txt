@@ -1,0 +1,5 @@
+Sıra		Takım	Oynanan Maç	Kazanılan Maç	Berabere	Kaybedilen Maç	Gol Farkı	Toplam Puan
+1	Real Madrid	2	2	1	0	5:12	6
+2	Napoli	3	1	1	1	7:10	4
+3	Marsilya	1	0	1	0	3:14	1
+4	Benfica	2	0	1	2	2:15	0

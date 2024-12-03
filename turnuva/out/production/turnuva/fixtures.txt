@@ -1,0 +1,14 @@
+F	Napoli	Benfica	3:0
+H	Nilufer Bld.	Guneysu	18:23
+H	Guneysu	IzmirBB	19:21
+V	Eczacibasi	Vakifbank	3:2
+F	Real Madrid	Napoli	2:1
+B	Karsiyaka	Bahcesehir	68:70
+H	Goztepe	IzmirBB	31:17
+F	Napoli	Marsilya	3:3
+V	Fenerbahce	Galatasaray	2:3
+F	Benfica	Real Madrid	2:3
+B	Karsiyaka	Galatasaray	75:83
+V	Fenerbahce	Vakifbank	1:3
+B	Galatasaray	Fenerbahce	95:80
+V	Galatasaray	Eczacibasi	3:2

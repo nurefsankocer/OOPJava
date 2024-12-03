@@ -1,0 +1,5 @@
+Sıra	Takım	Oynanan Maç	Kazanılan Maç	Berabere	Kaybedilen Maç	Gol Farkı	Toplam Puan
+1	Eczacibasi	2	2	0	0	6:4	6
+2	Vakifbank	2	1	0	1	4:5	3
+3	Galatasaray	2	1	0	1	5:5	3
+4	Fenerbahce	2	0	0	2	3:6	0

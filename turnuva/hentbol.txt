@@ -1,0 +1,5 @@
+Sıra	Takım	Oynanan Maç	Kazanılan Maç	Berabere	Kaybedilen Maç	Gol Atılan:Gol Yenilen	Toplam Puan
+1	Goztepe	4	Goztepe	1	1	0	0	31:17	3
+2	Guneysu	4	Guneysu	2	1	0	1	42:39	3
+3	IzmirBB	4	IzmirBB	2	1	0	1	38:50	3
+4	Nilufer Bld.	4	Nilufer Bld.	1	0	0	1	18:23	0
